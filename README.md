@@ -30,4 +30,4 @@ Azure Services Used for this project
 - Azure Language Understanding
 
 ## **Project Link**
-[HealthCare Pro](https://healthmentee.azurewebsites.net)
+[HealthCare Pro](https://anskalyan.azurewebsites.net/)
